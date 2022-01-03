@@ -1,0 +1,16 @@
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.exe
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.deps.json
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.json
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.dev.json
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.dll
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\bin\Debug\net5.0\ref\Encapsulation.dll
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\bin\Debug\net5.0\Encapsulation.pdb
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.AssemblyReference.cache
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfoInputs.cache
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfo.cs
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.dll
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\obj\Debug\net5.0\ref\Encapsulation.dll
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.pdb
+D:\LeTuan\UoG\OneDrive\GCD-OOP\Encapsulation\Encapsulation\obj\Debug\net5.0\Encapsulation.genruntimeconfig.cache
