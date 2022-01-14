@@ -1,0 +1,16 @@
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\bin\Debug\net5.0\ClassManagement.exe
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\bin\Debug\net5.0\ClassManagement.deps.json
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\bin\Debug\net5.0\ClassManagement.runtimeconfig.json
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\bin\Debug\net5.0\ClassManagement.runtimeconfig.dev.json
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\bin\Debug\net5.0\ClassManagement.dll
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\bin\Debug\net5.0\ref\ClassManagement.dll
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\bin\Debug\net5.0\ClassManagement.pdb
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\obj\Debug\net5.0\ClassManagement.csproj.AssemblyReference.cache
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\obj\Debug\net5.0\ClassManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\obj\Debug\net5.0\ClassManagement.AssemblyInfoInputs.cache
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\obj\Debug\net5.0\ClassManagement.AssemblyInfo.cs
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\obj\Debug\net5.0\ClassManagement.csproj.CoreCompileInputs.cache
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\obj\Debug\net5.0\ClassManagement.dll
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\obj\Debug\net5.0\ref\ClassManagement.dll
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\obj\Debug\net5.0\ClassManagement.pdb
+D:\LeTuan\UoG\OneDrive\GCD-OOP\ClassManagement\ClassManagement\obj\Debug\net5.0\ClassManagement.genruntimeconfig.cache
