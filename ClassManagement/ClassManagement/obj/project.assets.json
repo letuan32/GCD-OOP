@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LeTuan\\UoG\\OneDrive\\GCD-OOP\\ClassManagement\\ClassManagement\\ClassManagement.csproj",
+      "projectUniqueName": "D:\\LeTuan\\UoG\\OneDrive\\ConsoleApp_ClassManagement\\GCD-OOP\\ClassManagement\\ClassManagement\\ClassManagement.csproj",
       "projectName": "ClassManagement",
-      "projectPath": "D:\\LeTuan\\UoG\\OneDrive\\GCD-OOP\\ClassManagement\\ClassManagement\\ClassManagement.csproj",
+      "projectPath": "D:\\LeTuan\\UoG\\OneDrive\\ConsoleApp_ClassManagement\\GCD-OOP\\ClassManagement\\ClassManagement\\ClassManagement.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\LeTuan\\UoG\\OneDrive\\GCD-OOP\\ClassManagement\\ClassManagement\\obj\\",
+      "outputPath": "D:\\LeTuan\\UoG\\OneDrive\\ConsoleApp_ClassManagement\\GCD-OOP\\ClassManagement\\ClassManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

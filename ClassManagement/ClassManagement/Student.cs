@@ -8,6 +8,7 @@ namespace ClassManagement
 {
     internal class Student : Member
     {
+        public string Id { get; set; }
         public string Class { get; set; }
         public string Major { get; set; }
         public double Assignment { get; set; }
@@ -26,6 +27,7 @@ namespace ClassManagement
         public new void DisplayBasicInformation()
         {
             base.DisplayBasicInformation();
+            Console.WriteLine("MSSV: " + Id);
             Console.WriteLine("Lop: " + Class);
             Console.WriteLine("Chuyen nganh: " + Major);
             Console.WriteLine("Overall: " + Overall);
